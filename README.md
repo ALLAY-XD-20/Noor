@@ -40,6 +40,7 @@ Slash + prefix commands, multi-source playback, playlists, filters, server tools
 
 ## VOTING LINKS
 [![Discord Bots](https://top.gg/api/widget/1560959277672439879.svg)](https://top.gg/bot/1560959277672439879)
+[![Noor](https://discordbotlist.com/api/v1/bots/1560959277672439879/widget)](https://discordbotlist.com/bots/noor)
 
 ## Command overview
 
