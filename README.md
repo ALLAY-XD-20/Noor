@@ -2,7 +2,7 @@
 
 <img src="pngs/botlogo.png" alt="Noor logo" width="160" />
 
-# Lyrixa
+# Noor
 
 **A fast, sharded Discord music bot built with Components V2.**
 Slash + prefix commands, multi-source playback, playlists, filters, server tools and Premium.
