@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="pngs/botlogo.png" alt="Noor logo" width="160" />
+<img src="botlogo.png" alt="Noor logo" width="160" />
 
 # Noor
 
