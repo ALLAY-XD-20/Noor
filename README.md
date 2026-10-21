@@ -38,6 +38,9 @@ Slash + prefix commands, multi-source playback, playlists, filters, server tools
 - **Scale-ready**: hybrid sharding / clustering, multi-node Lavalink with node switching, auto-resume, backups.
 - **Fun commands**: hug, pat, kiss, cuddle, ship and more.
 
+## VOTING LINKS
+[![Discord Bots](https://top.gg/api/widget/1560959277672439879.svg)](https://top.gg/bot/1560959277672439879)
+
 ## Command overview
 
 | Category | Examples |
